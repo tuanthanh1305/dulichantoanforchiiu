@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm nang du lịch an toàn cùng bạn",
+  "description": "Đi đâu cũng được, khám phá điều mới mẻ và luôn đặt sự an toàn của Em iu lên hàng đầu. Sổ tay du lịch thông minh, an toàn cá nhân, checklist và đồng hành cùng Em iu do Anh Thành chuẩn bị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
